@@ -1,0 +1,9 @@
+[submodule "PainForGlory_Client"]
+	path = PainForGlory_Client
+	url = https://github.com/Liemander/PainForGlory_Client.git
+[submodule "PainForGlory_LoginServer"]
+	path = PainForGlory_LoginServer
+	url = https://github.com/Liemander/PainForGlory_LoginServer.git
+[submodule "PainForGlory_Common"]
+	path = PainForGlory_Common
+	url = https://github.com/Liemander/PainForGlory_Common.git
