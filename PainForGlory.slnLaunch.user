@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "Docker"
+      },
+      {
+        "Path": "PainforGlory_Server\\PainforGlory_Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "Container (Dockerfile)"
+      }
+    ]
+  }
+]

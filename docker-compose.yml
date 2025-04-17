@@ -1,0 +1,13 @@
+services:
+  painforglory_loginserver:
+    image: ${DOCKER_REGISTRY-}painforgloryloginserver
+    build:
+      context: PainForGlory_LoginServer
+      dockerfile: Dockerfile
+
+  painforglory_server:
+    image: ${DOCKER_REGISTRY-}painforgloryserver
+    build:
+      context: .
+      dockerfile: PainforGlory_Server/Dockerfile
+
