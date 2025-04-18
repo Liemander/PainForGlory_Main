@@ -15,7 +15,6 @@ F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.EntityFrameworkCore.Relati
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\DotNetEnv.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
 F:\Development\Pain for Glory MMO\bin\Debug\BCrypt.Net-Next.dll
@@ -29,11 +28,8 @@ F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Options.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Sprache.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Configuration.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Primitives.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\MySqlConnector.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
@@ -56,3 +52,16 @@ F:\Development\Pain for Glory MMO\bin\Debug\PainforGlory_Server.pdb
 F:\Development\Pain for Glory MMO\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 F:\Development\Pain for Glory MMO\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 F:\Development\Pain for Glory MMO\obj\Debug\docker-c.35A3FFBA.Up2Date
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Development\Pain for Glory MMO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll

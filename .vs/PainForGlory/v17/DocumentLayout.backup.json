@@ -3,15 +3,32 @@
   "WorkspaceRootPath": "F:\\Development\\Pain for Glory MMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|f:\\development\\pain for glory mmo\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|f:\\development\\pain for glory mmo\\painforglory_loginserver\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBBBF44F-009C-4DCA-8D28-30F9FFF78666}|PainForGlory_LoginServer\\PainForGlory_LoginServer.csproj|solutionrelative:painforglory_loginserver\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:49:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainForGlory_LoginServer\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PainForGlory_LoginServer\\Services\\TokenService.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainForGlory_LoginServer\\Services\\TokenService.cs",
+              "RelativeToolTip": "PainForGlory_LoginServer\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:43:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T15:24:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:24:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Data\\AuthDbContext.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:13:49.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Models\\UserAccount.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Models\\UserAccount.cs",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Models\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:12:29.512Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -33,38 +128,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAgwMkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-17T14:59:19.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "F:\\Development\\Pain for Glory MMO\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-04-17T14:58:04.538Z",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Program.cs",
+              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Program.cs",
+              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Program.cs",
+              "RelativeToolTip": "PainforGlory_LoginServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:55:07.47Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PainforGlory_LoginServer\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\Development\\Pain for Glory MMO\\PainforGlory_LoginServer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PainforGlory_LoginServer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T14:53:34.757Z"
             }
           ]
         }
