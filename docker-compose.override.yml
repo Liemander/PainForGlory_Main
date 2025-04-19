@@ -16,3 +16,4 @@ services:
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
     env_file:
       - ./.env
+

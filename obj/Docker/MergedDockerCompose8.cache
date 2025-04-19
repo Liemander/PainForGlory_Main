@@ -50,7 +50,6 @@ services:
       labels:
         com.microsoft.created-by: visual-studio
         com.microsoft.visual-studio.project-name: PainForGlory_Web
-      target: base
     entrypoint:
       - dotnet
       - --roll-forward
@@ -61,14 +60,12 @@ services:
       ASPNETCORE_CONTENTROOT: /app
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "8081"
-      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
-      DOTNET_USE_POLLING_FILE_WATCHER: "1"
       JwtKey: bIO9K4ftVaunu3EZkZ9zdkDAq1kRwob3dteYBBe6eYw=
-      NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
       PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
-    image: painforgloryweb:dev
+    image: painforgloryweb
     labels:
-      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net8.0/PainForGlory_Web.dll"'
+      com.microsoft.visual-studio.project-name: PainForGlory_Web
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/PainForGlory_Web.dll"'
       com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
       com.microsoft.visualstudio.debuggee.program: dotnet
       com.microsoft.visualstudio.debuggee.workingdirectory: /app
@@ -82,30 +79,8 @@ services:
     tty: true
     volumes:
       - type: bind
-        source: F:\Development\Pain for Glory MMO\PainForGlory_Web
-        target: /app
-        bind:
-          create_host_path: true
-      - type: bind
-        source: F:\Development\Pain for Glory MMO\PainForGlory_Web
-        target: /src
-        bind:
-          create_host_path: true
-      - type: bind
         source: C:\Users\Liema\vsdbg\vs2017u5
         target: /remote_debugger
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\Liema\.nuget\packages
-        target: /.nuget/packages
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages
-        target: /.nuget/fallbackpackages
-        read_only: true
         bind:
           create_host_path: true
       - type: bind

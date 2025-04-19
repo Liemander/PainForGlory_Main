@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainforGlory_Server", "Pain
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{81DDED9D-158B-E303-5F62-77A2896D2A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainForGlory_Web", "PainForGlory_Web\PainForGlory_Web.csproj", "{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|x64.Build.0 = Release|Any CPU
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|x86.ActiveCfg = Release|Any CPU
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|x86.Build.0 = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Debug|x86.Build.0 = Debug|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|x64.ActiveCfg = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|x64.Build.0 = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{E448EDCA-7173-447E-9E89-DCEF3E46F9C6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

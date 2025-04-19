@@ -22,6 +22,7 @@ services:
       ASPNETCORE_HTTP_PORTS: "8080"
       ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
       DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      JwtKey: bIO9K4ftVaunu3EZkZ9zdkDAq1kRwob3dteYBBe6eYw=
       NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
       PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
     image: painforgloryloginserver:dev
@@ -105,35 +106,12 @@ services:
     build:
       context: F:\Development\Pain for Glory MMO
       dockerfile: PainforGlory_Server/Dockerfile
-    environment:
-      DOTNET_ENVIRONMENT: Development
-      PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
-    image: painforgloryserver
-    networks:
-      default: null
-    volumes:
-      - type: bind
-        source: C:\Users\Liema\AppData\Roaming/Microsoft/UserSecrets
-        target: /home/app/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\Liema\AppData\Roaming/Microsoft/UserSecrets
-        target: /root/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-  painforglory_web:
-    build:
-      context: F:\Development\Pain for Glory MMO\PainForGlory_Web
-      dockerfile: Dockerfile
       args:
         BUILD_CONFIGURATION: Debug
         LAUNCHING_FROM_VS: "true"
       labels:
         com.microsoft.created-by: visual-studio
-        com.microsoft.visual-studio.project-name: PainForGlory_Web
+        com.microsoft.visual-studio.project-name: PainforGlory_Server
       target: base
     entrypoint:
       - dotnet
@@ -142,34 +120,39 @@ services:
       - /VSTools/DistrolessHelper/DistrolessHelper.dll
       - --wait
     environment:
-      ASPNETCORE_ENVIRONMENT: Development
-      ASPNETCORE_HTTP_PORTS: "8081"
-      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
-      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      DOTNET_ENVIRONMENT: Development
+      JwtKey: bIO9K4ftVaunu3EZkZ9zdkDAq1kRwob3dteYBBe6eYw=
       NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
       PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
-    image: painforgloryweb:dev
+    image: painforgloryserver:dev
     labels:
-      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net8.0/PainForGlory_Web.dll"'
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net8.0/PainforGlory_Server.dll"'
       com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
       com.microsoft.visualstudio.debuggee.program: dotnet
       com.microsoft.visualstudio.debuggee.workingdirectory: /app
     networks:
       default: null
-    ports:
-      - mode: ingress
-        target: 8081
-        published: "8081"
-        protocol: tcp
     tty: true
     volumes:
       - type: bind
-        source: F:\Development\Pain for Glory MMO\PainForGlory_Web
+        source: C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: F:\Development\Pain for Glory MMO\PainforGlory_Server
         target: /app
         bind:
           create_host_path: true
       - type: bind
-        source: F:\Development\Pain for Glory MMO\PainForGlory_Web
+        source: F:\Development\Pain for Glory MMO
         target: /src
         bind:
           create_host_path: true
@@ -191,30 +174,6 @@ services:
         bind:
           create_host_path: true
       - type: bind
-        source: C:\Users\Liema\AppData\Roaming\ASP.NET\Https
-        target: /root/.aspnet/https
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\Liema\AppData\Roaming\ASP.NET\Https
-        target: /home/app/.aspnet/https
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets
-        target: /root/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
-        source: C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets
-        target: /home/app/.microsoft/usersecrets
-        read_only: true
-        bind:
-          create_host_path: true
-      - type: bind
         source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0
         target: /VSTools
         read_only: true
@@ -226,6 +185,13 @@ services:
         read_only: true
         bind:
           create_host_path: true
+  painforglory_web:
+    build:
+      context: F:\Development\Pain for Glory MMO\PainForGlory_Web
+      dockerfile: Dockerfile
+    image: painforgloryweb
+    networks:
+      default: null
 networks:
   default:
     name: dockercompose10024696469776456851_default
