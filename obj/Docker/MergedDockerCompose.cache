@@ -7,6 +7,7 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "8080"
+      JwtKey: bIO9K4ftVaunu3EZkZ9zdkDAq1kRwob3dteYBBe6eYw=
       PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
     image: painforgloryloginserver
     networks:
@@ -14,6 +15,7 @@ services:
     ports:
       - mode: ingress
         target: 8080
+        published: "8080"
         protocol: tcp
   painforglory_server:
     build:
@@ -21,6 +23,7 @@ services:
       dockerfile: PainforGlory_Server/Dockerfile
     environment:
       DOTNET_ENVIRONMENT: Development
+      JwtKey: bIO9K4ftVaunu3EZkZ9zdkDAq1kRwob3dteYBBe6eYw=
       PFG_LOGIN_DB_CONNECTION: server=10.0.6.20;database=PFGMMOauthdb;user=PFGAuthUser;password=#FRcIb28&*%NtK*O;
     image: painforgloryserver
     networks:
@@ -38,6 +41,21 @@ services:
         read_only: true
         bind:
           create_host_path: true
+  painforglory_web:
+    build:
+      context: F:\Development\Pain for Glory MMO
+      dockerfile: PainForGlory_Web/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: painforgloryweb
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8081"
+        protocol: tcp
 networks:
   default:
     name: dockercompose10024696469776456851_default

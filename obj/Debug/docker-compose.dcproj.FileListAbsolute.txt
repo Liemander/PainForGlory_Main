@@ -36,11 +36,6 @@ F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Identity.Stores
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Logging.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
-F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.deps.json
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.runtimeconfig.json
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.staticwebassets.runtime.json
