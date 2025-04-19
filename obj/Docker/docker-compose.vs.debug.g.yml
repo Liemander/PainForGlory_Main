@@ -33,8 +33,8 @@ services:
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet"
     tty: true
-  painforglory_server:
-    image: painforgloryserver:dev
+  painforglory_web:
+    image: painforgloryweb:dev
     build:
       args:
         LAUNCHING_FROM_VS: true
@@ -42,15 +42,19 @@ services:
       target: base
       labels:
         com.microsoft.created-by: "visual-studio"
-        com.microsoft.visual-studio.project-name: "PainforGlory_Server"
+        com.microsoft.visual-studio.project-name: "PainForGlory_Web"
     environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - F:\Development\Pain for Glory MMO\PainforGlory_Server:/app:rw
+      - F:\Development\Pain for Glory MMO\PainForGlory_Web:/app:rw
       - F:\Development\Pain for Glory MMO:/src:rw
       - C:\Users\Liema\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Liema\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
+      - C:\Users\Liema\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+      - C:\Users\Liema\AppData\Roaming\ASP.NET\Https:/home/app/.aspnet/https:ro
       - C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
       - C:\Users\Liema\AppData\Roaming\Microsoft\UserSecrets:/home/app/.microsoft/usersecrets:ro
       - C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0:/VSTools:ro
@@ -59,7 +63,7 @@ services:
     entrypoint: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --wait"
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  \"/app/bin/Debug/net8.0/PainforGlory_Server.dll\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  \"/app/bin/Debug/net8.0/PainForGlory_Web.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet"
     tty: true

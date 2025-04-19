@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:43:47 GMT"
+          "Value": "Sat, 19 Apr 2025 07:32:39 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,4933 +74,13 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:43:47 GMT"
+          "Value": "Sat, 19 Apr 2025 07:32:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
           "Value": "sha256-dANsnVjVKxVwOfkOI6+6HIXGw6oo9w2YuBn+4pk9VZo="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/css/site.c2tiyv64ts.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/css/site.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/css/site.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/favicon.61n19gt1b8.ico",
-      "AssetFile": "_content/PainForGlory_LoginServer/favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/favicon.ico"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/favicon.ico",
-      "AssetFile": "_content/PainForGlory_LoginServer/favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/js/site.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/js/site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/js/site.xtxxf3hu2r.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/js/site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/js/site.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/LICENSE",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/LICENSE",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1153"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/LICENSE",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1153"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "81b7ukuj9c"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/LICENSE"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "agp80tu62r"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JtktgiuQAd+AXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "196535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "196535"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "st1cbwfwo5"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117439"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5vj65cig9w"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117439"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-72C/qDCGu+OwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "unj9p35syc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ysBT/JYxH9gcMnwxT4+MB4sPxOx/JMg9wi77FA13T9A="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "196539"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2q4vfeazbq"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "196539"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs+Wu6U8g="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117516"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "117516"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o371a8zbv2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NDSZjIiMPRIoO7/w7+jHef8retP4riQa8PMj4BVRGok="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n1oizzvkh6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD+3j0="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q2ku51ktnl"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7na4sro3qu"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "105138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jeal3x0ldm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "105138"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4646"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35330"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35330"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "okkk44j0xs"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4646"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f8imaxxbri"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5827"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0wve5yxp74"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5827"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "105151"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cwzlr5n8x4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "105151"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wmug9u23qg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4718"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "npxfuf8dg6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71584"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "192271"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j75batdsum"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "192271"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d+9/qNju20="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53479"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "16095smhkz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53479"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5+ExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "111875"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "111875"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vy0bq9ydhf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p1dop4slefZhL4zG2pa6+2HUrOY1UUArGJXmet8Md9c="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71451"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b4skse8du6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71451"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "192214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ab1c3rmv7g"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "192214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53407"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "111710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "56d2bn4wt9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "111710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX+96Pt/88="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53407"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u3xrusw2ol"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj+XFifSSqN4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "71584"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tey0rigmnh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NbFZxZLmBVNLzb/7B0WdFfb6+8jXHGX6XY190uwgbec="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap-utilities.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4gxs3k148c"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fctod5rc9n"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve6x09088i"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/css/bootstrap.rtl.css"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "208492"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "425643"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kbynt5jhd9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "425643"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "208492"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l2av4jpuoj"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "25iw1kog22"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "327261"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2nslu3uf3"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "327261"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "139019"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288320"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2lgwfvgpvi"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288320"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "139019"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m39kt2b5c9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72016"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "222508"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "222508"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wsezl0heh6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "72016"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "um2aeqy4ik"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ+w4v6TE="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.esm.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "148168"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6ukhryfubh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217145"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217145"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u33ctipx7g"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "59511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zwph15dxgs"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy+NjNM="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "148168"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o4kw7cc6tf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/bootstrap/dist/js/bootstrap.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "356vix0kms"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/LICENSE.txt"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "47otxtyo56"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/LICENSE.md",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x0q3zqp4vz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation/LICENSE.md"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52977"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ay5nd8zt9x"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52977"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9oaff4kq20"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51171"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24601"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b7iojwaux1"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24601"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51171"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pzqfkb6aqo"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery-validation/dist/jquery.validate.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mlv21k5csn"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery/LICENSE.txt"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/LICENSE.txt",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288580"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fwhahm2icz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288580"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5pze98is44"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.map"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dd6z7egasc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        },
-        {
-          "Name": "label",
-          "Value": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.js"
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.js",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.map",
-      "AssetFile": "_content/PainForGlory_LoginServer/lib/jquery/dist/jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 14:25:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
         }
       ]
     },
@@ -5031,7 +111,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5076,7 +156,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5113,7 +193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5158,7 +238,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5195,7 +275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5232,7 +312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5277,7 +357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5314,7 +394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5359,7 +439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5404,7 +484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5441,7 +521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5478,7 +558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5523,7 +603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5560,7 +640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5605,7 +685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5642,7 +722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5687,7 +767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5724,7 +804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5769,7 +849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5806,7 +886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5843,7 +923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5880,7 +960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5925,7 +1005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5970,7 +1050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6015,7 +1095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6060,7 +1140,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6097,7 +1177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6142,7 +1222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6179,7 +1259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6216,7 +1296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6253,7 +1333,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6298,7 +1378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6343,7 +1423,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6388,7 +1468,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6425,7 +1505,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6470,7 +1550,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6507,7 +1587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6544,7 +1624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6581,7 +1661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6626,7 +1706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6671,7 +1751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6708,7 +1788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6753,7 +1833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6790,7 +1870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6835,7 +1915,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6872,7 +1952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6909,7 +1989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6954,7 +2034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -6999,7 +2079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7036,7 +2116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7081,7 +2161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7118,7 +2198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7155,7 +2235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7200,7 +2280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7237,7 +2317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7282,7 +2362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7327,7 +2407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7364,7 +2444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7409,7 +2489,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7446,7 +2526,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7491,7 +2571,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7528,7 +2608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7573,7 +2653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7610,7 +2690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7655,7 +2735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7692,7 +2772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7737,7 +2817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7774,7 +2854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7819,7 +2899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7856,7 +2936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7901,7 +2981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7938,7 +3018,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7983,7 +3063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8020,7 +3100,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8065,7 +3145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8102,7 +3182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8147,7 +3227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8192,7 +3272,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8229,7 +3309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8274,7 +3354,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8311,7 +3391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8348,7 +3428,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8393,7 +3473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8430,7 +3510,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8475,7 +3555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8512,7 +3592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8549,7 +3629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8594,7 +3674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8639,7 +3719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8676,7 +3756,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8721,7 +3801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8758,7 +3838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8795,7 +3875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8832,7 +3912,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8877,7 +3957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8922,7 +4002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8967,7 +4047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9012,7 +4092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9049,7 +4129,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9094,7 +4174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9131,7 +4211,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9176,7 +4256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9213,7 +4293,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9250,7 +4330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9295,7 +4375,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9340,7 +4420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9377,7 +4457,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9422,7 +4502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9459,7 +4539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9496,7 +4576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9541,7 +4621,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9578,7 +4658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9623,7 +4703,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9668,7 +4748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9705,7 +4785,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9750,7 +4830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9787,7 +4867,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9832,7 +4912,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9877,7 +4957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9914,7 +4994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 06:19:05 GMT"
+          "Value": "Sat, 19 Apr 2025 07:27:07 GMT"
         }
       ],
       "EndpointProperties": [

@@ -4,11 +4,12 @@
       "commandName": "DockerCompose",
       "commandVersion": "1.0",
       "composeLaunchAction": "LaunchBrowser",
-      "composeLaunchServiceName": "painforglory_loginserver",
+      "composeLaunchServiceName": "painforglory_web",
       "composeLaunchUrl": "{Scheme}://localhost:{ServicePort}",
       "serviceActions": {
         "painforglory_loginserver": "StartDebugging",
-        "painforglory_server": "StartDebugging"
+        "painforglory_server": "DoNotStart",
+        "painforglory_web": "StartDebugging"
       }
     }
   }

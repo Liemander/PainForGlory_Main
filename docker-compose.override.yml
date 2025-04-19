@@ -4,7 +4,7 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_HTTP_PORTS=8080
     ports:
-      - "8080"
+      - "8080:8080"
     env_file:
       - ./.env
 
@@ -16,4 +16,12 @@ services:
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
     env_file:
       - ./.env
+
+
+  painforglory_web:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+    ports:
+      - "8081:8080"
 

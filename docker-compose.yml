@@ -10,3 +10,9 @@ services:
     build:
       context: .
       dockerfile: PainforGlory_Server/Dockerfile
+  painforglory_web:
+    image: ${DOCKER_REGISTRY-}painforgloryweb
+    build:
+      context: .
+      dockerfile: PainForGlory_Web/Dockerfile
+
