@@ -43,3 +43,5 @@ F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.staticwebassets.end
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.exe
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.dll
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.pdb
+F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Common.dll
+F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Common.pdb
