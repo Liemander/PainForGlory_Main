@@ -45,3 +45,4 @@ F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.dll
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Web.pdb
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Common.dll
 F:\Development\Pain for Glory MMO\bin\Debug\PainForGlory_Common.pdb
+F:\Development\Pain for Glory MMO\bin\Debug\Microsoft.AspNetCore.Identity.UI.dll
