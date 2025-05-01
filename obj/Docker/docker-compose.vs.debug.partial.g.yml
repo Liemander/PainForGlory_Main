@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - F:\Development\Pain for Glory MMO\PainForGlory_LoginServer:/app:rw
-      - F:\Development\Pain for Glory MMO\PainForGlory_LoginServer:/src:rw
+      - F:\Development\Pain_for_Glory_MMO\PainForGlory_LoginServer:/app:rw
+      - F:\Development\Pain_for_Glory_MMO\PainForGlory_LoginServer:/src:rw
       - C:\Users\Liema\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Liema\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
@@ -48,8 +48,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - F:\Development\Pain for Glory MMO\PainForGlory_Web:/app:rw
-      - F:\Development\Pain for Glory MMO:/src:rw
+      - F:\Development\Pain_for_Glory_MMO\PainForGlory_Web:/app:rw
+      - F:\Development\Pain_for_Glory_MMO:/src:rw
       - C:\Users\Liema\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\Liema\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
