@@ -8,7 +8,7 @@
         "DebugTarget": "Docker"
       },
       {
-        "Path": "PainforGlory_Server\\PainforGlory_Server.csproj",
+        "Path": "PainforGlory_Server\\PainforGlory_ShardServer.csproj",
         "Action": "Start",
         "DebugTarget": "Container (Dockerfile)"
       }
